@@ -16,5 +16,6 @@ Make sure the following are installed and configured on your host machine:
 sudo apt update
 sudo apt install cpu-checker
 kvm-ok
+```
 
 If KVM is correctly enabled, the command will return:
