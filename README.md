@@ -11,7 +11,7 @@ Make sure the following are installed and configured on your host machine:
 - Android Debug Bridge (adb)
 - A Linux machine (physical or VM with Hyper-V or VirtualBox) with **KVM** enabled
 
-## How to check if KVM is available and enabled:
+### How to check if KVM is available and enabled:
 
 ```bash
 sudo apt update
