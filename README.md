@@ -7,7 +7,6 @@ It is especially suitable for use in CI/CD pipelines (e.g., GitLab CI).
 
 Make sure the following are installed and configured on your host machine:
 
-- Docker
 - Android Debug Bridge (adb)
 - A Linux machine (physical or VM with Hyper-V or VirtualBox) with **KVM** enabled
 
